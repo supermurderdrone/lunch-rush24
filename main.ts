@@ -70,5 +70,5 @@ game.onUpdateInterval(500, function () {
         ................................
         `, SpriteKind.Food)
     burg.setPosition(randint(10, 145), 18)
-    burg.setVelocity(0, 50)
+    burg.setVelocity(0, 45)
 })
